@@ -11,4 +11,4 @@ Trend phát triển và triển khai phần mềm nó gồm các bước như đ
 -> Đây là lý do Có CI-CD
    
 ### Nội dung tham khảo từ
-[[Series] Học Docker, CICD từ cơ bản đến áp dụng vào thực tế](https://viblo.asia/s/jeZ103QgKWz) Của anh Mai Trung Đức. Mục đích ghi chép lại để mình ghi nhớ và note ra những phần mà bản thân mình thấy cần phải ghi nhớ.
+[[Series] Học Docker, CICD từ cơ bản đến áp dụng vào thực tế](https://viblo.asia/s/jeZ103QgKWz) Của anh Mai Trung Đức. Mục đích ghi chép lại để mình ghi nhớ và note ra những phần mà bản thân mình thấy cần phải note lại để sau này dễ lục lại.
